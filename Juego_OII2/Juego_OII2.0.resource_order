@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Colision","order":2,"path":"folders/Objetos/Colision.yy",},
+    {"name":"PJ_sp","order":1,"path":"folders/Sprites/PJ_sp.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"colision_sp","order":2,"path":"sprites/colision_sp/colision_sp.yy",},
+    {"name":"Sprite8","order":1,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"Puerta","order":1,"path":"objects/Puerta/Puerta.yy",},
+  ],
+}
