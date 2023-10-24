@@ -52,6 +52,7 @@
     {"id":{"name":"room_lab_1","path":"rooms/room_lab_1/room_lab_1.yy",},},
     {"id":{"name":"Contador_vidas","path":"objects/Contador_vidas/Contador_vidas.yy",},},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
+    {"id":{"name":"Script3","path":"scripts/Script3/Script3.yy",},},
     {"id":{"name":"lab_1_sp","path":"sprites/lab_1_sp/lab_1_sp.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"room_lab_3","path":"rooms/room_lab_3/room_lab_3.yy",},},
