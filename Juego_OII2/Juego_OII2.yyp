@@ -59,6 +59,7 @@
     {"id":{"name":"scrMoveTo","path":"scripts/scrMoveTo/scrMoveTo.yy",},},
     {"id":{"name":"objFacil","path":"objects/objFacil/objFacil.yy",},},
     {"id":{"name":"room_SelectDif","path":"rooms/room_SelectDif/room_SelectDif.yy",},},
+    {"id":{"name":"room_lab_4","path":"rooms/room_lab_4/room_lab_4.yy",},},
     {"id":{"name":"lab_2","path":"objects/lab_2/lab_2.yy",},},
     {"id":{"name":"objdialogo","path":"objects/objdialogo/objdialogo.yy",},},
     {"id":{"name":"pj","path":"objects/pj/pj.yy",},},
@@ -71,6 +72,7 @@
     {"id":{"name":"lab_1_sp","path":"sprites/lab_1_sp/lab_1_sp.yy",},},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"btnIntermedio","path":"sprites/btnIntermedio/btnIntermedio.yy",},},
+    {"id":{"name":"lab_4_sp","path":"sprites/lab_4_sp/lab_4_sp.yy",},},
     {"id":{"name":"fondo_menu","path":"sprites/fondo_menu/fondo_menu.yy",},},
     {"id":{"name":"room_lab_3","path":"rooms/room_lab_3/room_lab_3.yy",},},
     {"id":{"name":"objIntermedio","path":"objects/objIntermedio/objIntermedio.yy",},},
@@ -91,6 +93,7 @@
     {"roomId":{"name":"room_lab_1","path":"rooms/room_lab_1/room_lab_1.yy",},},
     {"roomId":{"name":"room_lab_2","path":"rooms/room_lab_2/room_lab_2.yy",},},
     {"roomId":{"name":"room_lab_3","path":"rooms/room_lab_3/room_lab_3.yy",},},
+    {"roomId":{"name":"room_lab_4","path":"rooms/room_lab_4/room_lab_4.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
