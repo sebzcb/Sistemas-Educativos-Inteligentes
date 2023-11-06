@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "lab_5_sp",
-  "bbox_bottom": 1270,
+  "bbox_bottom": 425,
   "bbox_left": 0,
-  "bbox_right": 999,
+  "bbox_right": 735,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e8e8f14a-84e2-487a-b1ae-e09a8cf9ca1a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3fcb2024-8263-4d64-a5cf-9c8c8c8d0a0d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1271,
+  "height": 426,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"93a94cd7-2918-4039-8082-e258cdaf2f39","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9e20b79d-8f7e-44a7-b3e6-e3e2d6e02ec5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e8e8f14a-84e2-487a-b1ae-e09a8cf9ca1a","path":"sprites/lab_5_sp/lab_5_sp.yy",},},},"Disabled":false,"id":"35dc3934-e998-4382-8d05-e07ad0f90a9f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3fcb2024-8263-4d64-a5cf-9c8c8c8d0a0d","path":"sprites/lab_5_sp/lab_5_sp.yy",},},},"Disabled":false,"id":"b40b63f0-ce10-4c31-b621-d6f5cc2e4fd7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1000,
+  "width": 736,
 }
